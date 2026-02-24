@@ -1,6 +1,6 @@
 package com.pajasoft.lib
 
-/ EJERCICIO 3: Expresion when
+// EJERCICIO 3: Expresion when
 // ========================================
 // Dada una lista de numeros del 1 al 7, convierte cada uno al nombre
 // del dia de la semana usando "when".
